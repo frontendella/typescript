@@ -19,7 +19,6 @@ function combine(
   //   return result.toString();
   // }
 }
-
 const combinedAges = combine(30, 26, 'as-number');
 console.log(combinedAges);
 
